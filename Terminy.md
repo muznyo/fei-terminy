@@ -16,7 +16,7 @@
 
 # 8. Týden
 
-
+**LA** - Test č. 1
 
 # 9. Týden
 
@@ -34,3 +34,7 @@
 
 **ZDS** - Projekt č. 2 <br>
 **ZDS** - Test č. 5
+
+# 13. Týden
+
+**LA** - Test č. 2
