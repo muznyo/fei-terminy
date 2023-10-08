@@ -39,4 +39,5 @@
 
 # 13. Týden
 
-**LA** - Test č. 2
+**LA** - Test č. 2 <br>
+**ANJ** - Credit Test
