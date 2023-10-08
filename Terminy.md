@@ -13,6 +13,7 @@
 # 7. Týden
 
 **ZDS** - Test č. 2
+**FPR** - Test č. 1
 
 # 8. Týden
 
@@ -29,6 +30,7 @@
 # 11. Týden
 
 **ZDS** - Test č. 3
+**FPR** - Test č. 2
 
 # 12. Týden
 
